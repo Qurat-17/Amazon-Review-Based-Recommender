@@ -88,7 +88,7 @@ MS-Recommender/
 * Experiment with content-based recommendation methods.
 * Deploy the recommendation system as a web application.
 * 
-# Clone the repository:
+## Clone the repository:
 
 git clone https://github.com/Qurat-17/Amazon-Review-Based-Recommender.git
 cd Amazon-Review-Based-Recommender
