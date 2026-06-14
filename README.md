@@ -89,9 +89,14 @@ MS-Recommender/
 * Deploy the recommendation system as a web application.
 * 
 ## Clone the repository:
+# Amazon Electronics Recommendation System
 
-git clone https://github.com/Qurat-17/Amazon-Review-Based-Recommender.git
-cd Amazon-Review-Based-Recommender
+## Installation
+```bash
+git clone (https://github.com/Qurat-17/Amazon-Review-Based-Recommender.git
+cd Amazon-Review-Based-Recommender) 
+
+```
 
 ## Author
 
